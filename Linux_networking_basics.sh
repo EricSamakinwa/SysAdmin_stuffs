@@ -212,7 +212,7 @@ scp -P 2290 john@80.0.0.1:~/a.txt .
 scp -P 2290 -r projects/ john@80.0.0.1:~
  
  
-### RSYNC ###
+### RSYNC ### copying files 
 # synchronizing a directory
 sudo rsync -av /etc/ ~/etc-backup/
  

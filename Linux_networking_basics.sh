@@ -1,4 +1,4 @@
-##########################
+########################## my fav
 ## Getting info about the network interfaces (ifconfig, ip, route)
 ###########################
  

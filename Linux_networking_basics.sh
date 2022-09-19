@@ -1,6 +1,6 @@
 ##########################
 ## Getting info about the network interfaces (ifconfig, ip, route)
-##########################
+###########################
  
 # displaying information about enabled interfaces
 ifconfig
